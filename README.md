@@ -9,6 +9,7 @@ The platform also includes secure user authentication, personalized dashboards, 
 ---
 ![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/05933b3c91b98ed50825682ddfa9b0bb3e7613da/signup.png)
 ![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/8381654c806653715bc8b4cb16a282f6a7752114/Personality%20Analyzer.png)
+![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/5ac370e5cc77d88e0e9c5c9a730c1e072337d928/Music%20recommdation.png)
 
 
 ## 🚀 Features
