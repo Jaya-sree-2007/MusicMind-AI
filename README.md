@@ -10,6 +10,7 @@ The platform also includes secure user authentication, personalized dashboards, 
 ![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/05933b3c91b98ed50825682ddfa9b0bb3e7613da/signup.png)
 ![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/8381654c806653715bc8b4cb16a282f6a7752114/Personality%20Analyzer.png)
 ![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/5ac370e5cc77d88e0e9c5c9a730c1e072337d928/Music%20recommdation.png)
+![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/bf176a3e093ec0693f858b1c94527ec164ded4e1/Admin%20Dashborad.png)
 
 
 ## 🚀 Features
@@ -61,42 +62,15 @@ The platform also includes secure user authentication, personalized dashboards, 
 
 ### 1. Authentication Module
 
-* User Registration
-* Secure Login
-* Session Management
-* Password Reset using OTP
-* Role-Based Access Control (Student/Admin)
-
 ### 2. Music Personality Analyzer
-
-* Interactive Questionnaire
-* Personality Prediction
-* Genre Recommendation
-* Compatibility Score Calculation
-* Spotify Playlist Suggestions
 
 ### 3. Student Dashboard
 
-* View Analysis History
-* Track Personality Results
-* Score Trend Visualization
-* Personality Distribution Charts
-
 ### 4. Admin Dashboard
-
-* Manage Users
-* View Analysis Records
-* Search User Reports
-* Monitor System Statistics
-* Analyze Personality and Genre Popularity
 
 ### 5. Report Generation
 
-* Generate Personality Reports
-* Download PDF Reports
-* Store Historical Analysis Records
 
----
 
 ## 🎯 System Workflow
 
@@ -124,21 +98,8 @@ PDF Report Generation
 
 ### Users Table
 
-* User ID
-* Username
-* Email
-* Password
-* Role
-* Created Date
-
 ### Results Table
 
-* Result ID
-* Username
-* Personality
-* Recommended Genre
-* Compatibility Score
-* Analysis Date
 
 ---
 
