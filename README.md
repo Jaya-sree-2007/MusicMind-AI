@@ -7,7 +7,7 @@ MusicMind AI is a web-based music personality analysis system developed using Py
 The platform also includes secure user authentication, personalized dashboards, analysis history tracking, PDF report generation, and administrative analytics for efficient system management.
 
 ---
-![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/ac941d7e348679f64d054582d99802d1a25f0170/signup.png)
+![image_alt](https://github.com/Jaya-sree-2007/MusicMind-AI/blob/05933b3c91b98ed50825682ddfa9b0bb3e7613da/signup.png)
 
 
 ## 🚀 Features
